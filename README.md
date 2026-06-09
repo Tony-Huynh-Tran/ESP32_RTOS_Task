@@ -1,4 +1,4 @@
-# ESP32Task
+# ESP32 RTOS Task
 
 A lightweight Arduino library for ESP32 to create FreeRTOS tasks and thread-safe shared variables — in just one line each.
 
