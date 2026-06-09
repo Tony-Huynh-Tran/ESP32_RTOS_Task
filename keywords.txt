@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map for ESP32Task
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1 — orange)
+#######################################
+
+Shared	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2 — orange, lighter)
+#######################################
+
+Task_begin	KEYWORD2
+task	KEYWORD2
+
+#######################################
+# Constants and Macros (LITERAL1 — teal)
+#######################################
+
+SHARED	LITERAL1
