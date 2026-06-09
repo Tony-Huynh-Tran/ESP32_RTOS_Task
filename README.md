@@ -159,4 +159,4 @@ Use it to verify everything is running before adding your own logic.
 
 ## License
 
-MIT License — Free to use in personal and commercial projects.
+Apache 2.0
